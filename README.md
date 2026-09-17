@@ -6,7 +6,7 @@ Redundancy is a distance, and almost nobody knows theirs. Two copies can sit in 
 buildings, on different continents, under different providers — and still share one event, one key,
 or one jurisdiction that ends all of them at once.
 
-**Live: https://radius-eight-xi.vercel.app**
+**Live: https://radius-self-six.vercel.app**
 
 ---
 
